@@ -1,0 +1,2 @@
+# SponsorshipDuesHostImage
+SponsorshipDuesHostImage
